@@ -1,11 +1,13 @@
 MAKE A GITHUB FILE
-create file in github
+create file in github (name cannot start with numbers or symbols, only letters)
 public
 share with person
+create a folder named TEMP
+create a temp.java in the folder
 clone repository (url)
 checkout branch, new branch, Taylor
-import projects
-finish
+import projects…
+Finish
 
 MAKE CHANGES TO LOCAL TAYLOR BRANCH TO GITHUB MAIN BRANCH
 edit branch
