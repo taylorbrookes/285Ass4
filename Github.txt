@@ -4,6 +4,8 @@ public
 share with person
 clone repository (url)
 checkout branch, new branch, Taylor
+import projects
+finish
 
 MAKE CHANGES TO LOCAL TAYLOR BRANCH TO GITHUB MAIN BRANCH
 edit branch
