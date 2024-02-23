@@ -1,0 +1,51 @@
+MAKE A GITHUB FILE
+create file in github
+public
+share with person
+clone repository (url)
+checkout branch, new branch, Taylor
+
+MAKE CHANGES TO LOCAL TAYLOR BRANCH TO GITHUB MAIN BRANCH
+edit branch
+unstaged → staged
+commit message
+on gitub, pull request
+new pull request
+taylor branch
+create pull request
+merge pull request
+confirm merge
+
+PULL CHANGES FROM GITHUB MAIN BRANCH TO LOCAL TAYLOR BRANCH
+checkout local main branch
+fetch upstream
+close
+taylor branch
+merge
+remote tracking
+origin/main
+merge
+
+UPDATE REMOTE TAYLOR BRANCH
+push HEAD
+push
+close
+
+PEOPLE UPDATE THEIR BRANCHES
+2 people
+everyone downloads main
+everyone makes a branch
+person 1 finishes, pushes branch
+github updates main
+person 2 pulls local main before pushing anything 
+person 2 finishes, merge remote origin main twice
+person 2 pushes
+merge conflict
+edit the file to what you want it to be
+unstaged → staged
+push twice
+github pull requests
+new pull request
+taylor
+create pull request x3
+merge pull request, commit merge
