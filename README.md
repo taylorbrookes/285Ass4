@@ -1,4 +1,4 @@
-# 285Ass4: QUEUES
+# 285 Assignment 4: QUEUES
 
 Taylor Brookes: Project Manager
 
